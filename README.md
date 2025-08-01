@@ -46,7 +46,7 @@ A dedicated problem solver with a robust foundation in data structures and algor
   <a href="mailto:tarikulhasandipu@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
   </a>
-  <a href="https://facebook.com/tarikulhasandipu" target="_blank">
+  <a href="https://www.facebook.com/tarikul.hasan.249188/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" />
   </a>
   <a href="https://linkedin.com/in/tarikul-hasan-dipu" target="_blank">
