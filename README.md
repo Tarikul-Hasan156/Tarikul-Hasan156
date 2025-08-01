@@ -1,93 +1,90 @@
-<h1 align="center">Hi 👋, I'm Md. Tarikul Hasan Dipu</h1>
+<h1 align="center">Md. Tarikul Hasan Dipu</h1>
+<h3 align="center">
+🚀 Precision-Driven Algorithmist & Analytical Thinker | 💡 Passionate about Scalable Solutions & Computational Theory
+</h3>
 
-<h3 align="center">💻 Competitive Programmer | 📊 Problem Solver | 🧠 Algorithm Enthusiast</h3>
+<p align="center">
+<em>
+A dedicated problem solver with a robust foundation in data structures and algorithms. I actively participate in competitive programming contests on platforms like Codeforces, AtCoder, and VJudge, continuously sharpening my skills in logical design, optimization, and performance. My goal is to apply my expertise to develop efficient and scalable solutions for complex, real-world challenges.
+</em>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="250">
+</p
+
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.sc in CSE
+- 💬 Ask me about: `C++`, `STL`, `OOP`, `Algorithms`, `Graphs`
+- 📘 Currently learning: `Advanced Graph Theory`, `DP Optimization`, `C++17/20`
+- 🎯 Goal: Become a Top-Rated Competitive Programmer
+- 🌐 Visit my Likndin profile: [Md. Tarikul Hasan Dipu](https://www.linkedin.com/in/md-tarikul-hasan-dipu-499573291/)
+
+---
+
+## 🌐 Online Judges
+
+| Icon | Platform       | Username |
+|------|----------------|----------|
+| <img src="https://codeforces.org/s/0/favicon.ico" width="20"> | **Codeforces** | [tarikul1234](https://codeforces.com/profile/tarikul1234) |
+| <img src="https://cdn.codechef.com/images/cc-logo.svg" width="20"> | **CodeChef** | [tarikul1234](https://www.codechef.com/users/tarikul1234) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20"> | **HackerRank** | [tarikulhasandipu](https://www.hackerrank.com/profile/tarikulhasandipu) |
+|<img src="https://cdn.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" width="20">| **HackerEarth** | [precisementorship677](https://www.hackerearth.com/@precisementorship677/) |
+| <img src="https://atcoder.jp/favicon.ico" width="20"> | **AtCoder** | [tarikul1234](https://atcoder.jp/users/tarikul1234) |
+| <img src="https://img.shields.io/badge/VJudge-00B388?style=for-the-badge&logo=virtual-judge&logoColor=white" width="20"> | **VJudge** | [tarikul1234](https://vjudge.net/user/tarikul1234) |
+| <<img src="https://cses.fi/logo.png" width="20">> | **CSES** | [tarikul1234](https://cses.fi/user/352730) |
+
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:tarikulhasandipu@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
+  </a>
+  <a href="https://facebook.com/tarikulhasandipu" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/tarikul-hasan-dipu" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" />
+  </a>
+  <a href="https://instagram.com/tarikulhasan156" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarikul-hasan156&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikul-hasan156&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarikul-hasan156&label=Profile%20views&color=0e75b6&style=flat" alt="tarikul-hasan156" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Keep+Practicing+💻;Never+Give+Up+🔥;Code%2C+Debug%2C+Repeat+🛠️;Striving+for+Excellence+🏆" />
-</p>
-
 ---
 
-### 👨‍💻 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔭 I’m currently working on **Academic Assistant**
-- 🌱 I’m currently learning **Advanced Graph Theory, Number Theory, Dynamic Programming**
-- 💬 Ask me about: `C++`, `STL`, `Algorithms`, `Competitive Programming`
-- 🎯 Goal: Compete in **ICPC**, and become an expert competitive coder
-- 📫 Email: **tarikulhasandipu@gmail.com**
-- 🎓 BSc in CSE | 📍 Bangladesh
-
----
-
-### 🌐 Online Judges
-
-<p align="left">
-  <a href="https://codeforces.com/profile/tarikul1234" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/tarikul1234" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
-  <a href="https://atcoder.jp/users/tarikul1234" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" alt="AtCoder" height="30" width="40"/>
-  </a>
-  <a href="https://vjudge.net/user/tarikul1234" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="VJudge" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/tarikulhasandipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerearth.com/@tarikulhasandipu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Skills & Tools
-
-- 💻 Languages: `C++`, `Python`
-- ⚙️ Strengths: `STL`, `Sorting`, `Binary Search`, `Recursion`, `Graphs`, `DP`
-- 🧩 Problem Solving: `Data Structures`, `Greedy`, `Number Theory`, `Game Theory`
-- 🛠️ Editor: `VS Code`, `Codeforces IDE`
-
----
-
-### 📫 Social Media
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-tarikul-hasan-dipu" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/tarikul.hasan.754" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/_tarikul__hasan_/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarikul-hasan156&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikul-hasan156&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikul-hasan156&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Snake Game Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/tarikul-hasan156/tarikul-hasan156/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
