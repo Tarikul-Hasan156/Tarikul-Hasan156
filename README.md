@@ -1,6 +1,6 @@
 <h1 align="center">Md. Tarikul Hasan Dipu</h1>
 <h3 align="center">
-🚀 Precision-Driven Algorithmist & Analytical Thinker | 💡 Passionate about Scalable Solutions & Computational Theory
+<!-- 🚀 Precision-Driven Algorithmist & Analytical Thinker | 💡 Passionate about Scalable Solutions & Computational Theory -->
 </h3>
 
 <p align="center">
