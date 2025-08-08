@@ -34,10 +34,14 @@ A dedicated problem solver with a robust foundation in data structures and algor
 | <img src="https://codeforces.org/s/0/favicon.ico" width="20"> | **Codeforces** | [tarikul1234](https://codeforces.com/profile/tarikul1234) |
 | <img src="https://cdn.codechef.com/images/cc-logo.svg" width="20"> | **CodeChef** | [tarikul1234](https://www.codechef.com/users/tarikul1234) |
 | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20"> | **HackerRank** | [tarikulhasandipu](https://www.hackerrank.com/profile/tarikulhasandipu) |
-|<img src="https://cdn.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" width="20">| **HackerEarth** | [precisementorship677](https://www.hackerearth.com/@precisementorship677/) |
+| <img src="https://cdn.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" width="20"> | **HackerEarth** | [precisementorship677](https://www.hackerearth.com/@precisementorship677/) |
 | <img src="https://atcoder.jp/favicon.ico" width="20"> | **AtCoder** | [tarikul1234](https://atcoder.jp/users/tarikul1234) |
 | <img src="https://img.shields.io/badge/VJudge-00B388?style=for-the-badge&logo=virtual-judge&logoColor=white" width="20"> | **VJudge** | [tarikul1234](https://vjudge.net/user/tarikul1234) |
-| <<img src="https://cses.fi/logo.png" width="20">> | **CSES** | [tarikul1234](https://cses.fi/user/352730) |
+| <img src="https://cses.fi/logo.png" width="20"> | **CSES** | [tarikul1234](https://cses.fi/user/352730) |
+| <img src="https://judge.beecrowd.com/favicon.ico" width="20"> | **Beecrowd** | [tarikul1234](https://judge.beecrowd.com/en/profile/894926) |
+
+
+
 
 
 ## 📫 Connect with Me
