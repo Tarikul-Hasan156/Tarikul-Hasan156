@@ -80,13 +80,18 @@ A dedicated problem solver with a robust foundation in data structures and algor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarikul-hasan156&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikul-hasan156&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarikul-hasan156&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikul-hasan156&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikul-hasan156&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarikul-hasan156&label=Profile%20views&color=0e75b6&style=flat" alt="tarikul-hasan156" />
 </p>
+
 
 ---
 
