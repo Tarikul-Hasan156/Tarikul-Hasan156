@@ -17,7 +17,7 @@ A dedicated problem solver with a robust foundation in data structures and algor
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 
 - 🎓 B.sc in CSE
 - 💬 Ask me about: `C++`, `STL`, `OOP`, `Algorithms`, `Graphs`
@@ -27,7 +27,7 @@ A dedicated problem solver with a robust foundation in data structures and algor
 
 ---
 
-## 🌐 Online Judges
+## 🌐 Online Judges.
 
 | Icon | Platform       | Username |
 |------|----------------|----------|
