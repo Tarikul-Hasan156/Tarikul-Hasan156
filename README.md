@@ -22,7 +22,7 @@ A dedicated problem solver with a robust foundation in data structures and algor
 - 🎓 B.sc in CSE
 - 💬 Ask me about: `C++`, `STL`, `OOP`, `Algorithms`, `Graphs`
 - 📘 Currently learning: `Advanced Graph Theory`, `DP Optimization`, `C++17/20`
-- 🎯 Goal: Become a Top-Rated Competitive Programmer
+- 🎯 Goal: Become a Top-Rated Competitive Programmer.
 - 🌐 Visit my Likndin profile: [Md. Tarikul Hasan Dipu](https://www.linkedin.com/in/md-tarikul-hasan-dipu-499573291/)
 
 ---
